@@ -1,0 +1,22 @@
+#title {
+    background-color: aquamarine;
+    color: purple;
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.list {
+    background-color: #ecec45a9;
+    font-size: 14px;
+}
+
+h1 {
+    background-color: azure;
+    font-size: 32px;
+}
+
+h2 {
+    background-color: blueviolet;
+    color: antiquewhite;
+    font-size: 18px;
+}
